@@ -1,5 +1,4 @@
 
-import Work1 from "../../assets/images/work1.jpg" 
 import Tesla from "../../assets/images/tesla.png"
 import ToDoList from "../../assets/images/newToDoList.png"
 import LoginPage from "../../assets/images/LoginPage.png"
