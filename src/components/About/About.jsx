@@ -1,6 +1,6 @@
 import React from 'react';
 import "./style.scss";
-import AboutImg from "../../assets/images/ruzmat.jpg"
+import AboutImg from "../../assets/images/imgme.jpg"
 import CV from "../../assets/images/CV.png"
 import Info from './Info';
 import { HiDocumentText } from "react-icons/hi"
