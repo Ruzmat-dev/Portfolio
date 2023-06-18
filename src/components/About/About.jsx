@@ -1,7 +1,7 @@
 import React from 'react';
 import "./style.scss";
 import AboutImg from "../../assets/images/imgme.jpg"
-import CV from "../../assets/images/CV.png"
+import CV from "../../../public/CV.pdf"
 import Info from './Info';
 import { HiDocumentText } from "react-icons/hi"
 

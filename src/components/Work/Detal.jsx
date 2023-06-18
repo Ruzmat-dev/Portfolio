@@ -36,14 +36,6 @@ export const projectsData = [
     } ,
     {
         id: 4,
-        image: Roulette ,
-        title: "Roulette",
-        category: "web",
-        link: "https://todolist-one-zeta.vercel.app/", 
-        github: "https://github.com/Ruzmat-dev/Todolist2", 
-    } ,
-    {
-        id: 5,
         image: Disney ,
         title: "Disney Home Page",
         category: "web",
@@ -51,15 +43,7 @@ export const projectsData = [
         github: "https://github.com/Ruzmat-dev/disney.git"
     } ,
     {
-        id: 6,
-        image: AddList ,
-        title: "AddList Page",
-        category: "web",
-        link: "https://day-3-blue.vercel.app/#", 
-        github: "https://github.com/Ruzmat-dev/day-3"
-    } ,
-    {
-        id: 7,
+        id: 5,
         image: FilterCountry ,
         title: "Filter Country",
         category: "web",
@@ -67,20 +51,12 @@ export const projectsData = [
         github: "https://github.com/Ruzmat-dev/day-4"
     } ,
     {
-        id: 8,
+        id: 6,
         image: Quiz ,
         title: "Quiz",
         category: "web",
         link: "https://quiz-n5i124p39-unversal0090.vercel.app/", 
         github: "https://github.com/Ruzmat-dev/quiz_now"
-    } ,
-    {
-        id: 9,
-        image: UserList ,
-        title: "UserList",
-        category: "web",
-        link: "https://users-list-1qz2744d5-unversal0090.vercel.app/", 
-        github: "https://github.com/Ruzmat-dev/users_new_fore"
     } ,
 ]
 

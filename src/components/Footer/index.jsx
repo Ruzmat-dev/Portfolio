@@ -21,9 +21,9 @@ const index = () => {
             </ul>
 
             <div className="footer__social">
-               <a href="https://www.instagram.cpm/" className='footer__social-link' target='_blank'> <i className="bx bxl-facebook"></i> </a>
-               <a href="https://www.instagram.cpm/" className='footer__social-link' target='_blank'> <i className="bx bxl-instagram"></i> </a>
-               <a href="https://www.instagram.cpm/" className='footer__social-link' target='_blank'> <i className="bx bxl-twitter"></i> </a>
+               <a href="#" className='footer__social-link' target='_blank'> <i className="bx bxl-facebook"></i> </a>
+               <a href="/" className='footer__social-link' target='_blank'> <i className="bx bxl-instagram"></i> </a>
+               <a href="/" className='footer__social-link' target='_blank'> <i className="bx bxl-twitter"></i> </a>
             </div>
 
             <span className="footer__copy">&#169; Crypticalcoder. All rigths reserved</span>

@@ -28,7 +28,7 @@ const Contact = () => {
                                 <h3 className="contact__card-title">Email</h3>
                                 <span className='contact__card-data'>idealxorezm@gmail.com</span>
 
-                                <a href="" className="contact__button">
+                                <a href="https://mail.google.com/mail/u/0/#inbox" className="contact__button">
                                     Write me{" "}
                                     <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                                 </a>
@@ -36,24 +36,24 @@ const Contact = () => {
                             <div className="contact__card">
                                 <i className="bx bxl-whatsapp contact__card-icon"></i>
 
-                                <h3 className="contact__card-title">Email</h3>
-                                <span className='contact__card-data'>idealxorezm@gmail.com</span>
+                                <h3 className="contact__card-title">Whatsapp</h3>
+                                <span className='contact__card-data'>+998910910090</span>
 
-                                <a href="https://t.me/lRozmat" className="contact__button">
+                                <a href="https://www.whatsapp.com/" className="contact__button">
                                     Write me{" "}
                                     <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                                 </a>
                             </div>
 
                             <div className="contact__card">
-                                <i className="bx bxl-messenger contact__card-icon"></i>
+                                <i className="bx bxl-telegram contact__card-icon"></i>
 
-                                <h3 className="contact__card-title">Email</h3>
-                                <span className='contact__card-data'>idealxorezm@gmail.com</span>
+                                <h3 className="contact__card-title">Telegram</h3>
+                                <span className='contact__card-data'>+998910910090</span>
 
                                 <a href="https://t.me/lRozmat" className="contact__button">
                                     Write me{" "}
-                                    <i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                                    <i className="bx  bx-right-arrow-alt contact__button-icon"></i>
                                 </a>
                             </div>
                         </div>

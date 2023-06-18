@@ -7,8 +7,8 @@ const WorksItem = ({item}) => {
         <img src={item.image} alt="" className="work__img" />
         <h3 className="work__title">{item.title}</h3>
         <a href={item.link} className='work__button linksPartfolyu'>
-            <span>Demo  </span>
-            <a href='https://github.com/Ruzmat-dev/tesla'>GitHub Link </a>
+            <span className='demoProtfoiyu'>Demo  <i class='bx bx-chevron-right-circle'></i> </span>
+            <span className='demoProtfoiyu'><a href='https://github.com/Ruzmat-dev/tesla'>GitHub Link <i class='bx bxl-github'></i> </a></span>
         </a>
     </div>
   )
