@@ -8,7 +8,7 @@ const WorksItem = ({item}) => {
         <h3 className="work__title">{item.title}</h3>
         <a href={item.link} className='work__button linksPartfolyu'>
             <span className='demoProtfoiyu'>Demo  <i class='bx bx-chevron-right-circle'></i> </span>
-            <span className='demoProtfoiyu'><a href='https://github.com/Ruzmat-dev/tesla'>GitHub Link <i class='bx bxl-github'></i> </a></span>
+            <span className='demoProtfoiyu'><a href={item.github}>GitHub Link <i class='bx bxl-github'></i> </a></span>
         </a>
     </div>
   )
