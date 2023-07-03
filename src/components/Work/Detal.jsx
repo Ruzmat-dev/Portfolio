@@ -7,9 +7,10 @@ import Disney from "../../assets/images/disney.png"
 import AddList from "../../assets/images/AddList.png"
 import FilterCountry from "../../assets/images/FilterCountry.png"
 import Quiz from  "../../assets/images/quiz.png"
-import UserList from "../../assets/images/UserList.png"
 import Admin from "../../assets/images/admin.png"
 import Olx from "../../assets/images/olx.png"
+import Bus from "../../assets/images/bus.png"
+import adminAvto from "../../assets/images/admin-avto.png"
 
 export const projectsData = [
     {
@@ -63,6 +64,14 @@ export const projectsData = [
     } ,
     {
         id: 7,
+        image: Bus ,
+        title: "Bus veb-sayt",
+        category: "web",
+        link: "https://supplier-of-the-far-east.vercel.app/", 
+        github: "https://github.com/Ruzmat-dev/task1_appx"
+    } ,
+    {
+        id: 8,
         image: FilterCountry ,
         title: "Filter Country",
         category: "web",
@@ -70,12 +79,20 @@ export const projectsData = [
         github: "https://github.com/Ruzmat-dev/day-4"
     } ,
     {
-        id: 8,
+        id: 9,
         image: Quiz ,
         title: "Quiz",
         category: "web",
         link: "https://quiz-n5i124p39-unversal0090.vercel.app/", 
         github: "https://github.com/Ruzmat-dev/quiz_now"
+    } , 
+    {
+        id: 10,
+        image: adminAvto ,
+        title: "Admin Avto",
+        category: "web",
+        link: "https://appx-avto.vercel.app/", 
+        github: "https://github.com/Ruzmat-dev/appx_avto"
     } 
 ]
 
