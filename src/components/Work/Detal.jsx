@@ -2,15 +2,15 @@
 import Tesla from "../../assets/images/tesla.png"
 import ToDoList from "../../assets/images/newToDoList.png"
 import LoginPage from "../../assets/images/LoginPage.png"
-import Roulette from "../../assets/images/roulette.png"
 import Disney from "../../assets/images/disney.png"
-import AddList from "../../assets/images/AddList.png"
 import FilterCountry from "../../assets/images/FilterCountry.png"
 import Quiz from  "../../assets/images/quiz.png"
 import Admin from "../../assets/images/admin.png"
 import Olx from "../../assets/images/olx.png"
 import Bus from "../../assets/images/bus.png"
 import adminAvto from "../../assets/images/admin-avto.png"
+import Codewars from "../../assets/images/codewars.png"
+import Alif from "../../assets/images/alif.png"
 
 export const projectsData = [
     {
@@ -67,16 +67,16 @@ export const projectsData = [
         image: Bus ,
         title: "Bus veb-sayt",
         category: "web",
-        link: "https://supplier-of-the-far-east.vercel.app/", 
+        link: "https://curious-shortbread-9200d4.netlify.app/", 
         github: "https://github.com/Ruzmat-dev/task1_appx"
     } ,
     {
         id: 8,
-        image: FilterCountry ,
-        title: "Filter Country",
+        image: Codewars ,
+        title: "Codewars Simple Clone",
         category: "web",
-        link: "https://day-4-indol-ten.vercel.app/", 
-        github: "https://github.com/Ruzmat-dev/day-4"
+        link: "https://codewars-clone-omega.vercel.app/", 
+        github: "https://github.com/Ruzmat-dev/codewars_clone"
     } ,
     {
         id: 9,
@@ -88,10 +88,10 @@ export const projectsData = [
     } , 
     {
         id: 10,
-        image: adminAvto ,
-        title: "Admin Avto",
+        image: Alif ,
+        title: "Alif clone Home Page",
         category: "web",
-        link: "https://appx-avto.vercel.app/", 
+        link: "https://alif-three.vercel.app/", 
         github: "https://github.com/Ruzmat-dev/appx_avto"
     } 
 ]
